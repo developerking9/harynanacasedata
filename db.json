@@ -1,14 +1,18 @@
 {
   "haryanacasedata": [
     {
-      "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+     "id": 1,
+      "Namehr": "India (इंडिया)",
+      "TotalCaseshr": "1583792",
+      "TotalDeathshr": "34968",
+      "TotalRecoveredhr": "1020582",
+      "TotalCasesohr": "1.58M",
+      "TotalDeathswhrhr": "34.96K",
+      "TotalRecoveredrhr": "1.02M",
+      "TotalInchr": "52.12K+",
+      "TotalDechr": "775+",
+      "TotalRechr": "32.55K+",
+      "Conditionhr": "Need to improve"
     }
   ]
 }
